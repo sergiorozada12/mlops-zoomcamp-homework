@@ -1,4 +1,7 @@
 data/
+artifacts/
+mlruns/
+*.sqlite
 .DS_Store/
 
 # Byte-compiled / optimized / DLL files
